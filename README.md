@@ -5,9 +5,13 @@ This was a freelance task with a limit of 5 hours for development, in which the 
 This was also my first time developing a WooCommerce plugin.
 
 Development notes:
+
   I decided to place the plugin menu directly on the left navigation menu just for convenience;
+  
   I decided to use jQuery as well as vanilla JavaScript in order to speed up the development process;
+  
   I tested everything in a localhost environment so there could be some unforeseen behaviours related to that (unlikely, however);
+  
 
 This is what I would improve before considering the plugin done:
 
