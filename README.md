@@ -13,6 +13,9 @@ Development notes:
   I tested everything in a localhost environment so there could be some unforeseen behaviours related to that (unlikely, however);
   
 
+
+
+
 This is what I would improve before considering the plugin done:
 
   Responsive design (resolution breakpoints for the popup, possibly for the Plugin admin panel);
