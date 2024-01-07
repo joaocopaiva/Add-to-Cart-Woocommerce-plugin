@@ -10,12 +10,21 @@ Development notes:
   I tested everything in a localhost environment so there could be some unforeseen behaviours related to that (unlikely, however);
 
 This is what I would improve before considering the plugin done:
+
   Responsive design (resolution breakpoints for the popup, possibly for the Plugin admin panel);
+  
   Allow addition/removal of more than one display condition at a time (currently only 1);
+  
   Redesign Plugin Admin UI;
+  
   Change variable and function names to be more understandable for others;
+  
   Quick user guide / documentation;
+  
   Extensive Display Conditions testing;
+  
   Convert jQuery code in addtocart-popup-script.js to vanilla JS;
+  
   Separate all .css styles to a separate file (\plugins\addtocart-popup\assets\addtocart-popup.css);
+  
   Add option for popup to appear sliding from the right of the screen or fading in/out;
